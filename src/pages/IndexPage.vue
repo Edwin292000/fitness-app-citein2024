@@ -110,7 +110,7 @@ export default defineComponent({
       done();
     },
 
-    sendNotification() {},
+    //sendNotification() {},
 
     saveExercise() {
       const newExercise: exercise = {
