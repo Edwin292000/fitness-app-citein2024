@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381475332207",
+    "project_id": "fit-apptest",
+    "storage_bucket": "fit-apptest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381475332207:android:974d2bbe9a0e8397a1ad9a",
+        "android_client_info": {
+          "package_name": "org.edwincotom.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmveGxGdpW_ku9aEvKihBrbIo70Ql90c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
